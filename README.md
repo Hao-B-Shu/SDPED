@@ -6,7 +6,7 @@ The full version and data are provided in ''https://drive.google.com/file/d/1X5E
 
 Paper is in ''https://arxiv.org/abs/2407.19992''.
 
-@Citation:
+Citation:
 
 @article{Shu2024MorePreciseEdgeDetections,
 
@@ -22,5 +22,6 @@ Paper is in ''https://arxiv.org/abs/2407.19992''.
       
       primaryClass={cs.CV},
       
-      url={https://arxiv.org/abs/2407.19992},    
+      url={https://arxiv.org/abs/2407.19992},   
+      
       }
