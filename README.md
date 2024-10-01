@@ -8,8 +8,8 @@ Paper is in ''https://arxiv.org/abs/2407.19992''.
 
 Citation:
 
-@article{Shu2024MorePreciseEdgeDetections,
-
+      @article{Shu2024MorePreciseEdgeDetections,
+     
       title={More precise edge detections},  
       
       author={Hao Shu},
