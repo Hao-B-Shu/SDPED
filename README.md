@@ -2,7 +2,7 @@ Codes for SDPED.
 
 To use the codes, set paths and run ''Main.py'', Please refer to the ''Readme'' in the full version for full illustrations.
 
-The full version and data are provided in ''https://drive.google.com/file/d/1X5ExTpKodBgluAjh3wCMAi9iCSYoM7PY/view?usp=sharing''.
+The full version and data including checkpoints (of SDPED and previous models) and datasets (BRIND, BIPED2, UDED, MDBD after partition) are provided in ''https://drive.google.com/file/d/1X5ExTpKodBgluAjh3wCMAi9iCSYoM7PY/view?usp=sharing''.
 
 Paper is in ''https://arxiv.org/abs/2407.19992''.
 
