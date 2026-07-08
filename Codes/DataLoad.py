@@ -95,7 +95,7 @@ if __name__ == '__main__':
 
     device=torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-    Test=Generate_Dataset('','',False,256,pred_require=16,device)
+    Test=Generate_Dataset('','',False,256,pred_require=16,device=device)
     test_loader = DataLoader(Test,batch_size=1,shuffle=False)
     for i,traindata in enumerate(test_loader):
         print('i:',i)
